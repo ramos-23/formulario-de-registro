@@ -41,7 +41,7 @@ nav {
     justify-content: center;/*posiciona al centro el formulario*/
     align-items: center;/*posiciona al centro el formulario*/
     height: 100vh;
-    background-image: url('imagen/TEC.jpeg');
+    background-image: url('TEC.jpeg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
